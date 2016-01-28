@@ -4,9 +4,9 @@ ob_start();
 
 define('DB_DRIVER', 'mysql');
 define("DB_HOST", "localhost");
-define("DB_USER", "ourstemc_stem");
-define("DB_PASSWORD", "stem@123");
-define("DB_DATABASE", "ourstemc_stem");
+define("DB_USER", "root");
+define("DB_PASSWORD", "");
+define("DB_DATABASE", "stem");
 
 $dboptions = array(
     PDO::ATTR_PERSISTENT => FALSE,
