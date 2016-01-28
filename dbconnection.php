@@ -1,8 +1,8 @@
 <?php
-   $dbconn=mysql_connect("localhost","ourstemc_stem","stem@123");
+   $dbconn=mysql_connect("localhost","root","");
    if($dbconn)
    {
-   	mysql_select_db('ourstemc_stem');
+   	mysql_select_db('stem');
    }
    else
    {
