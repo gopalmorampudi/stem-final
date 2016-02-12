@@ -9,7 +9,7 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
 body {
 	font-family: 'Lato', sans-serif;
 	font-weight: normal;
-    color: ##F6F6F6;
+    color: #F6F6F6;
 }
 
 
@@ -1151,7 +1151,7 @@ list-style: none;
    }
    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    // background-color: #ccc;
+    
    }
 
    .navbar-nav .open .dropdown-menu {
