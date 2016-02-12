@@ -56,7 +56,7 @@ $subj='';
 <?php
 						if(isset($_SESSION['flag'])){
 							if($_SESSION['flag']=='success'){
-								echo 'Your Password Updated successfully';
+								echo 'Your password updated successfully';
 							}else if($_SESSION['flag']=='failed'){
 								echo 'Sorry we are unable to update your password';
 							}
