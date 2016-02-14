@@ -9,7 +9,7 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
 body {
 	font-family: 'Lato', sans-serif;
 	font-weight: normal;
-    color: #F6F6F6;
+    color: #000 !important;
 }
 
 
